@@ -1,0 +1,3 @@
+/Users/morisgomez/Downloads/10b-hw1/cmake-build-debug/CMakeFiles/10b_hw1.dir
+/Users/morisgomez/Downloads/10b-hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/morisgomez/Downloads/10b-hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
